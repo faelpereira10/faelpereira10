@@ -1,89 +1,41 @@
-<h1>Hello there, I'm Rafael Pereira 👋</h1>
-
 ![Banner](https://img.shields.io/badge/UFOP--ICEA-Sistemas%20de%20Informa%C3%A7%C3%A3o-red?style=for-the-badge)
 
-<h2>👨🏼‍💻🎓 Sistemas de Informação | Desenvolvedor de Software</h2>
+<img alt="Coding" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/assets/handshake.gif" width='40' align="left"/><h2 align="left">Olá! Eu sou o Rafael Pereira</h2>
+
+### 👨🏻‍💻 Sobre Mim
+
+* 🎓 **Estudante de Sistemas de Informação** na UFOP (ICEA - João Monlevade).
+* 🛠️ **Técnico em Informática** formado pelo CEFET-MG.
+* 🏫 Atuei como professor de Física no projeto acadêmico "Rumo à Universidade".
+* 🏠 Membro da **República DuBodi**, onde colaboro no desenvolvimento do site oficial.
+* 💡 Interessado em lógica, estruturas de dados e desenvolvimento web moderno.
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="300"/>
+
+### 🛠 Tech Stack (Principais Tecnologias)
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)&nbsp;
+![Assembly](https://img.shields.io/badge/MIPS%20Assembly-000000?style=for-the-badge&logo=assemblyscript&logoColor=white)&nbsp;
+![Shadcn/UI](https://img.shields.io/badge/Shadcn%2FUI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)&nbsp;
+
+### ⚙️ GitHub Analytics
 
 <p align="center">
-  <span>
-    <strong>Graduando em Sistemas de Informação na UFOP</strong> [cite: 1, 10, 11] <br/>
-    Técnico em Informática pelo CEFET-MG [cite: 5, 13]
-  </span>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faelpereira10&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faelpereira10&layout=compact&langs_count=8&theme=radical"/>
 </p>
 
----
+### 🤝🏻 Conecte-se Comigo
 
-## 💫 About Me:
-* 🔭 **I’m currently working on:** Projetos acadêmicos em Java e o site da República DuBodi.
-* 👯 **I’m looking to collaborate on:** Projetos de código aberto que utilizem React e TypeScript.
-* 🤝 **I’m looking for help with:** Estruturas de dados complexas, como Árvores Rubro-Negras e Patricia.
-* 🌱 **I’m currently learning:** Desenvolvimento de sistemas e arquitetura de computadores.
-* [cite_start]💬 **Ask me about:** Java, lógica de programação e como é estudar Sistemas de Informação no ICEA/UFOP. [cite: 10, 11, 22]
-* ⚡ **Fun fact:** Já fui professor de Física e adoro a cultura do graffiti e da arte de rua.
-
----
-
-## 🌐 Socials:
-<p align="left">
-  <a href="https://www.linkedin.com/in/rafaelpereiracontact/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:rafael.contatopereira@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://instagram.com/faelpereira10_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-  </a>
-  <a href="https://tiktok.com/@faelpereira10" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white">
-  </a>
-  <a href="https://x.com/faelpereira10_" target="_blank">
-    <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white">
-  </a>
-</p>
-
----
-
-## 💻 Tech Stack:
-<p align="left">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/azure-%230089D6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
-</p>
-
----
-
-## 🚀 Featured Projects
 <p align="center">
-  <a href="https://github.com/faelpereira10/CargaFacil">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=faelpereira10&theme=blue-green&repo=Carga_Facil" />
-  </a>
-  <a href="https://github.com/faelpereira10/dubodi.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=faelpereira10&theme=blue-green&repo=dubodi.github.io" />
-  </a>
+<a href="https://dubodi.github.io"><img src="https://img.shields.io/badge/-Site%20Rep%C3%BAblica-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/faelpereira10/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 </p>
 
----
-
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faelpereira10&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false"/><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=faelpereira10&theme=blue-green&hide_border=false"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faelpereira10&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
-</p>
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=faelpereira10&theme=codeSTACKr&no-frame=false&no-bg=false&margin-w=4"/>
-</p>
-
-<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&quote=Do.%20Or%20do%20Not.%20There%20is%20no%20Try...&author=Yoda" /> </p>
+### 🐍 Atividade de Commits
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faelpereira10&theme=radical&hide_border=true" alt="Streak Stats" />
+</div>

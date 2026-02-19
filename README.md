@@ -37,7 +37,7 @@
   <a href="https://tiktok.com/@faelpereira10" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white">
   </a>
-  <a href="https://x.com/faelpereira10" target="_blank">
+  <a href="https://x.com/faelpereira10_" target="_blank">
     <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white">
   </a>
 </p>

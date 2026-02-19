@@ -4,13 +4,13 @@
 
 ### 👨🏻‍💻 &nbsp;Sobre Mim
 
-👨‍💻 &nbsp;Sou graduando em **Sistemas de Informação pela UFOP (ICEA)**.
-💡 &nbsp;Tenho formação técnica em **Informática pelo CEFET-MG** e gosto de explorar novas tecnologias.
-🎓 &nbsp;Atualmente focado em Estruturas de Dados (Árvores Patricia, RB e BST) e Programação Java.
-🏫 &nbsp;Atuei como professor de Física no projeto acadêmico "Rumo à Universidade".
-🏠 &nbsp;Sou membro da **República DuBodi**, onde colaboro no desenvolvimento do site oficial.
-💬 &nbsp;Sinta-se à vontade para entrar em contato para discutir sobre desenvolvimento web ou trocar ideias sobre lógica.
-✉️ &nbsp;Você pode me encontrar no meu perfil do GitHub ou LinkedIn!
+👨‍💻 &nbsp;Sou graduando em **Sistemas de Informação pela UFOP (ICEA)**.<br>
+💡 &nbsp;Tenho formação técnica em **Informática pelo CEFET-MG** e gosto de explorar novas tecnologias.<br>
+🎓 &nbsp;Atualmente focado em Estruturas de Dados (Árvores Patricia, RB e BST) e Programação Java.<br>
+🏫 &nbsp;Atuei como professor de Física no projeto acadêmico "Rumo à Universidade".<br>
+🏠 &nbsp;Sou membro da **República DuBodi**, onde colaboro no desenvolvimento do site oficial.<br>
+💬 &nbsp;Sinta-se à vontade para entrar em contato para discutir sobre desenvolvimento web ou trocar ideias sobre lógica.<br>
+✉️ &nbsp;Você pode me encontrar no meu perfil do GitHub ou LinkedIn!<br>
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="300"/>
 

@@ -45,7 +45,7 @@
 ### 🤝🏻 &nbsp;Conecte-se Comigo
 
 <p align="center">
-<a href="https://dubodi.github.io"><img src="https://img.shields.io/badge/-Site%20Rep%C3%BAblica-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://dubodi.github.io"><img src="./Dubodi"/></a>
 <a href="https://www.linkedin.com/in/faelpereira10/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 </p>
 
